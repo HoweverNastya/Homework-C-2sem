@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\ТЕСТИРОВАНИЕ\\ДЗ\\C#_Examples\\2sem\\2sem.csproj",
-      "projectName": "2sem",
-      "projectPath": "M:\\ТЕСТИРОВАНИЕ\\ДЗ\\C#_Examples\\2sem\\2sem.csproj",
+      "projectUniqueName": "M:\\ТЕСТИРОВАНИЕ\\ДЗ\\C#_Examples\\2sem\\ex10\\ex10.csproj",
+      "projectName": "ex10",
+      "projectPath": "M:\\ТЕСТИРОВАНИЕ\\ДЗ\\C#_Examples\\2sem\\ex10\\ex10.csproj",
       "packagesPath": "C:\\Users\\Nastas'ya\\.nuget\\packages\\",
-      "outputPath": "M:\\ТЕСТИРОВАНИЕ\\ДЗ\\C#_Examples\\2sem\\obj\\",
+      "outputPath": "M:\\ТЕСТИРОВАНИЕ\\ДЗ\\C#_Examples\\2sem\\ex10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nastas'ya\\AppData\\Roaming\\NuGet\\NuGet.Config"

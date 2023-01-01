@@ -1,0 +1,15 @@
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\bin\Debug\net6.0\ex10.exe
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\bin\Debug\net6.0\ex10.deps.json
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\bin\Debug\net6.0\ex10.runtimeconfig.json
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\bin\Debug\net6.0\ex10.dll
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\bin\Debug\net6.0\ex10.pdb
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ex10.csproj.AssemblyReference.cache
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ex10.GeneratedMSBuildEditorConfig.editorconfig
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ex10.AssemblyInfoInputs.cache
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ex10.AssemblyInfo.cs
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ex10.csproj.CoreCompileInputs.cache
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ex10.dll
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\refint\ex10.dll
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ex10.pdb
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ex10.genruntimeconfig.cache
+M:\ТЕСТИРОВАНИЕ\ДЗ\C#_Examples\2sem\ex10\obj\Debug\net6.0\ref\ex10.dll
